@@ -12,7 +12,6 @@ Easily the most feature rich Remix-run markdown blogging template in existence. 
 ![img.png](img.png)
 
 - [Demo Blog](https://tailwind-remix-run-mdxjs-typescript-starter-blog.fly.dev/) - this repository is deployed to [fly.io](https://fly.io/)
-- [My personal blog](https://www.makebitbyte.com/)
 
 ## Features
 
